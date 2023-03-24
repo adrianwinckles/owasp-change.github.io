@@ -107,6 +107,7 @@ Steven van der Baan, OWASP Member and OWASP Cambridge co-lead<br>
 David Hunt, OWASP Member and OWASP Columbus co-lead<br>
 Mauricio Harley, OWASP Member, former OWASP Fortaleza chapter founder and leader, OWASP MSTG/MASVS contributor<br>
 Wael Ghandour, OWASP Member<br>
+Adrian Winckles, OWASP Cambridge Chapter Leader, OWASP Education Committee Chair, OWASP Web Honeypot Project Leader, OWASP Application Security Curriculum project co-lead
 
 <!--
 Please:
